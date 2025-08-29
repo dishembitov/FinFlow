@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      uri: http://finflow-config-server:8090
