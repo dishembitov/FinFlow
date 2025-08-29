@@ -1,4 +1,4 @@
-# FinFlow - Microservices Architecture for Internet Banking with Java Spring Boot
+## FinFlow - Microservices Architecture for Internet Banking with Java Spring Boot
 
 This is a comprehensive internet banking system built with Spring Boot microservices architecture, providing a full-featured banking API infrastructure for financial operations.
 
@@ -23,7 +23,7 @@ $ cd FinFlow/docker-compose
 $ docker-compose up -d
 ```
 
-#### Docker Containers
+### Docker Containers
 
 Container | IP | Port Mapping |
 --- | --- | --- |
